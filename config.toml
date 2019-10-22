@@ -2,9 +2,6 @@
 baseurl = "https://cloudevents.io/"
 languageCode = "en-us"
 title = "CloudEvents"
-theme = "hugo-stellar-theme"
-canonifyurls = true
-googleAnalytics = ""
 
 [params]
 groupsiourl = "https://lists.cncf.io/g/cncf-cloudevents/signup?u=2254653446843417778"
